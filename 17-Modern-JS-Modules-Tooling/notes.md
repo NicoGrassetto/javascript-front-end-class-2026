@@ -1,5 +1,9 @@
 # Modern JavaScript: Modules & Tooling
 
+> **🎓 CS Perspective:** ES6 modules implement a **static module system** with compile-time dependency resolution (imports are hoisted and analyzed before execution). This enables **tree-shaking**—dead code elimination during bundling. Unlike CommonJS (dynamic, runtime resolution), ES6 imports are **live bindings** (references, not copies), which has implications for circular dependencies. The module pattern using IIFEs demonstrates **closures for encapsulation**—creating private scope through function invocation. Bundlers (Webpack, Parcel) perform **dependency graph analysis** and code transformation. Transpilers like Babel implement **source-to-source compilation**, converting modern JS to older versions. This toolchain represents the modern **build pipeline** concept in software engineering.
+
+---
+
 ## 📌 ES6 Modules vs Scripts
 
 | Feature | ES6 Modules | Scripts |

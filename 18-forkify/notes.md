@@ -1,5 +1,9 @@
 # Application Architecture: MVC Pattern
 
+> **🎓 CS Perspective:** MVC (Model-View-Controller) is a foundational **architectural pattern** from software engineering that enforces **separation of concerns**—a design principle stating that each module should have a single responsibility. The Model manages **application state** and business logic (the "truth"), the View handles **presentation** (UI rendering), and the Controller acts as **mediator** between them. This pattern implements a form of the **Observer pattern**: Views subscribe to Model changes. The Publisher-Subscriber pattern used here enables **loose coupling**—components communicate through events rather than direct references. Configuration modules demonstrate the **single source of truth** principle, while helper modules show **DRY (Don't Repeat Yourself)** through code reuse.
+
+---
+
 ## 📌 MVC Overview
 
 **Model-View-Controller** separates concerns:

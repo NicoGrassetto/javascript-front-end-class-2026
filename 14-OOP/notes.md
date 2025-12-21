@@ -1,5 +1,9 @@
 # Object-Oriented Programming (OOP)
 
+> **🎓 CS Perspective:** JavaScript implements OOP through **prototypal inheritance** rather than classical inheritance (like Java/C++). Instead of classes as blueprints, objects inherit directly from other objects via the **prototype chain**—a linked list of objects searched during property lookup. ES6 classes are **syntactic sugar** over this prototype system. The `new` keyword implements a specific algorithm: object creation, prototype linking, and implicit return. Understanding the difference between `__proto__` (instance's prototype link) and `.prototype` (constructor's prototype property) is crucial. This prototypal model is more flexible than classical OOP, enabling patterns like **object composition** and **mixins** without class hierarchies.
+
+---
+
 ## 📌 OOP Principles
 
 | Principle | Description |

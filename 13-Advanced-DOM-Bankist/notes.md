@@ -1,5 +1,9 @@
 # Advanced DOM & Events
 
+> **🎓 CS Perspective:** This section deepens DOM understanding with **event propagation**—specifically the capture and bubble phases, which implement a two-phase **event dispatch algorithm**. Event delegation leverages **event bubbling** to handle events efficiently (O(1) listeners instead of O(n)), demonstrating the **proxy pattern**. The Intersection Observer API implements an efficient **lazy evaluation** strategy for viewport-based triggers, far more performant than polling scroll positions. Smooth scrolling and lazy loading relate to **perceived performance optimization**—improving user experience through progressive rendering. The distinction between live (HTMLCollection) and static (NodeList) collections shows different **iteration semantics** with implications for concurrent modification.
+
+---
+
 ## 📌 Selecting Elements
 
 ```javascript

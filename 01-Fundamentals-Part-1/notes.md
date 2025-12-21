@@ -1,5 +1,9 @@
 # JavaScript Fundamentals - Part 1
 
+> **🎓 CS Perspective:** This section covers the foundational building blocks of JavaScript as a programming language. You'll learn about **type systems** (JavaScript uses dynamic/weak typing), **variable binding and scope** (how identifiers map to memory locations), and **primitive data types** (the atomic units of data representation). Understanding `let`, `const`, and `var` relates to concepts like mutability, block vs. function scoping, and the temporal dead zone—all important for understanding how the JS runtime manages memory and execution context.
+
+---
+
 ## 📌 Linking JavaScript to HTML
 
 ```html

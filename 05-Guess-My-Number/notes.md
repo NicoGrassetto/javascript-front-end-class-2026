@@ -2,6 +2,8 @@
 
 > Notes from building interactive games: Guess My Number, Modal, and Pig Game
 
+> **🎓 CS Perspective:** The DOM (Document Object Model) is a **tree data structure** that represents HTML documents. Manipulating the DOM involves **tree traversal** and modification operations. Event handling implements the **Observer pattern**—a behavioral design pattern where objects (listeners) subscribe to events from a subject (DOM elements). The concept of "event-driven programming" is fundamental to GUI systems and differs from sequential execution. Understanding the DOM also introduces you to the browser's **rendering pipeline** and why efficient DOM manipulation matters for performance.
+
 ---
 
 ## 📌 Selecting DOM Elements

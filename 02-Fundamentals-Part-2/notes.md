@@ -1,5 +1,9 @@
 # JavaScript Fundamentals - Part 2
 
+> **🎓 CS Perspective:** This section dives into **functions as first-class citizens**—a core concept from functional programming where functions can be assigned to variables, passed as arguments, and returned from other functions. You'll explore different function declaration syntaxes and their implications for **hoisting** (compile-time vs. runtime behavior) and **lexical scoping**. The comparison of function declarations, expressions, and arrow functions illustrates how JavaScript handles the `this` binding and closure creation differently based on syntax.
+
+---
+
 ## 📌 Strict Mode
 
 Activates stricter parsing and error handling:

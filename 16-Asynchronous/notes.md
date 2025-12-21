@@ -1,5 +1,9 @@
 # Asynchronous JavaScript
 
+> **🎓 CS Perspective:** This section covers JavaScript's **concurrency model**, which uses a single-threaded **event loop** with non-blocking I/O. Unlike multi-threaded languages, JS achieves concurrency through **cooperative multitasking**—long operations yield control back to the event loop. Promises implement the **Promise/Future pattern** from concurrent programming, representing a value that may not yet exist. `async/await` is **syntactic sugar** over Promises, using **coroutines** (functions that can suspend and resume) under the hood. The microtask queue (Promises) vs. macrotask queue (setTimeout) distinction affects execution order. `Promise.all` enables **parallel execution** while `Promise.race` implements a **timeout pattern**. This model avoids race conditions and deadlocks common in multi-threaded programming.
+
+---
+
 ## 📌 Synchronous vs Asynchronous
 
 | Synchronous | Asynchronous |

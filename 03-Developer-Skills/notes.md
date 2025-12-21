@@ -1,5 +1,9 @@
 # Developer Skills & Problem Solving
 
+> **🎓 CS Perspective:** This section covers **algorithmic thinking** and **problem decomposition**—fundamental skills from computational thinking. The 4-step process mirrors the classic software engineering approach: requirements analysis, modular design, research (leveraging existing solutions/libraries), and implementation. Breaking problems into sub-problems is essentially **top-down design** or **divide-and-conquer**, a paradigm used in algorithm design. Debugging techniques here relate to the broader discipline of **software verification and testing**.
+
+---
+
 ## 📌 Problem Solving Framework
 
 A structured approach to tackle coding challenges:

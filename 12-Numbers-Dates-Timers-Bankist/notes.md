@@ -1,5 +1,9 @@
 # Numbers, Dates, Intl & Timers
 
+> **🎓 CS Perspective:** JavaScript uses **IEEE 754 double-precision floating-point** for all numbers, which explains precision issues like `0.1 + 0.2 !== 0.3`. This is a fundamental limitation of binary floating-point representation—certain decimal fractions cannot be exactly represented. BigInt provides **arbitrary-precision integers** when you need exact large number arithmetic. Timers (`setTimeout`, `setInterval`) are part of the **event loop** mechanism—they don't execute immediately when the timer expires but are queued in the callback/task queue, demonstrating JavaScript's **non-preemptive concurrency model**. The Intl API showcases **internationalization (i18n)** concerns in software engineering.
+
+---
+
 ## 📌 Numbers in JavaScript
 
 All numbers are floating-point (no integers):

@@ -1,5 +1,9 @@
 # Advanced Functions
 
+> **🎓 CS Perspective:** This section explores **higher-order functions**—a cornerstone of functional programming where functions operate on other functions. `call`, `apply`, and `bind` demonstrate **explicit binding** of the execution context, allowing you to control `this` manually (similar to method dispatch in other languages). Closures (functions returning functions) implement **lexical closures**—they "close over" their defining environment, capturing variables by reference. This is fundamental for creating **private state** and **partial application** (currying). Pass-by-value vs. reference discusses JavaScript's **evaluation strategy**: primitives are copied, but objects pass references (which are themselves passed by value).
+
+---
+
 ## 📌 Default Parameters
 
 ```javascript

@@ -1,5 +1,9 @@
 # Array Methods
 
+> **🎓 CS Perspective:** This section covers **functional programming operations** on collections. `map`, `filter`, and `reduce` are the canonical **higher-order functions** from functional programming—they abstract common iteration patterns. `reduce` (also called `fold`) is particularly powerful: theoretically, any list operation can be expressed as a reduce. These methods favor **immutability** (creating new arrays rather than mutating), which aligns with functional programming principles and helps prevent bugs. Understanding method chaining relates to **fluent interfaces** and the **builder pattern**. The distinction between mutating (`splice`, `reverse`) and non-mutating (`slice`, `map`) methods is crucial for **referential transparency** and predictable code.
+
+---
+
 ## 📌 Simple Array Methods
 
 ### slice (Does NOT mutate)

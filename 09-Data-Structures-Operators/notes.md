@@ -1,5 +1,9 @@
 # Data Structures, Modern Operators & Strings
 
+> **🎓 CS Perspective:** This section covers JavaScript's built-in **data structures** (arrays, objects, Maps, Sets) and **pattern matching** through destructuring. Destructuring is a form of **structural pattern matching** common in functional languages like ML and Haskell. The spread/rest operators demonstrate **variadic functions** (functions accepting variable arguments). Maps provide O(1) average-case lookup (hash table implementation), while Sets enforce **uniqueness constraints**. Short-circuit evaluation (`&&`, `||`, `??`) relates to **lazy evaluation**—operands are only evaluated when necessary, which has implications for side effects and performance.
+
+---
+
 ## 📌 Destructuring Arrays
 
 Extract values from arrays into variables:

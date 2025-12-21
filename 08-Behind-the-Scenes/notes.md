@@ -1,5 +1,9 @@
 # How JavaScript Works Behind the Scenes
 
+> **🎓 CS Perspective:** This section explores JavaScript's **execution model** and **runtime architecture**. The call stack implements a **LIFO (Last-In-First-Out)** data structure for managing execution contexts—directly related to how recursion and function calls work at the assembly level. Hoisting demonstrates the distinction between **compile-time** and **runtime** phases. The scope chain implements **lexical scoping** (static scoping), where variable resolution follows the source code structure. Understanding `this` binding reveals JavaScript's approach to **dynamic dispatch**—how method calls are resolved at runtime based on the calling context, not the definition location.
+
+---
+
 ## 📌 JavaScript Engine & Runtime
 
 ### JavaScript Engine
