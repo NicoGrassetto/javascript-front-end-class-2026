@@ -2,6 +2,8 @@
 
 Welcome to the **Complete JavaScript Course**! This repository serves as the groundtruth for the class, containing notes, exercises, starter code, and final solutions for each chapter.
 
+Instructor: Nico Grassetto
+
 ---
 
 ## 📚 About This Course
