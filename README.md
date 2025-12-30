@@ -1,6 +1,6 @@
-# Complete JavaScript Course Notes
+# Complete JavaScript Front-end Course Notes
 
-Welcome to the **Complete JavaScript Course**! This repository serves as the groundtruth for the class, containing notes, exercises, starter code, and final solutions for each chapter.
+Welcome to the **Complete JavaScript Front-end Course**! This repository serves as the groundtruth for the class, containing notes, exercises, starter code, and final solutions for each chapter.
 
 Instructor: Nico Grassetto
 
